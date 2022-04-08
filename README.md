@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antwish2020
 - 👀 I’m interested in ... building software, apps and websites for my own businesses.
-- 🌱 I’m currently learning ... just started adn i need to know what to learn.
+- 🌱 I’m currently learning ... just started and i need to know what to learn.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
